@@ -24,8 +24,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
+title: QIANWEN MENG'S HOMEPAGE
+email: mqw_sdu@mail.sdu.edu.cn
 author: GitHub User
 
 # Copyright setting
@@ -156,8 +156,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     heading: "QIANWEN MENG'S HOMEPAGE"
+#     subheading: "Up Up Up"
 #     banner: "Your image url"
 
 # Banner default settings
